@@ -10,3 +10,5 @@ perhatikan aturan berikut.
 - Silahkan tambahkan file di dalam direktori `kontributor` dengan
 nama file menggunakan username Github, contoh `petanikode.txt`.
 - Dilarang merubah file di direktori `kontributor` milik orang lain.
+
+test
